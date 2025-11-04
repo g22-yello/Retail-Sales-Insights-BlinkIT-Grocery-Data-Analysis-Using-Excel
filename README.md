@@ -1,6 +1,6 @@
 # Retail-Sales-Insights-BlinkIT-Grocery-Data-Analysis-Using-Excel
 
-![](intro_image.avif)
+![](intro_img.avif)
 
 ---
 
