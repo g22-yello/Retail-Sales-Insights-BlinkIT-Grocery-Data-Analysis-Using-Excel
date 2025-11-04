@@ -26,7 +26,7 @@ Performed comprehensive Excel-based analysis of BlinkIT’s sales performanxe, c
   12. Rating
 
 
-Source: https://www.kaggle.com/datasets/swaptr/layoffs-2022](https://www.kaggle.com/datasets/arunkumaroraon/blinkit-grocery-dataset
+Source: https://www.kaggle.com/datasets/arunkumaroraon/blinkit-grocery-dataset
 
 ---
 
